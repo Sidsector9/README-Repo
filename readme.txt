@@ -6,8 +6,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 3.0 is a major update. Make a full site backup, update your theme and extensions, and [review update best practices](https://docs.woocommerce.com/document/how-to-update-your-site) before upgrading.
 
 <strong>Is this in bold?</strong>
-<ul>
-	<li>ONE</li>
-	<li>TWO</li>
-	<li>THREE</li>
-</ul>
+<table style="width:100%">
+  <tr>
+    <th>Plugin</th>
+    <th>Tested with Give's version</th> 
+  </tr>
+  <tr>
+    <td>Give Recurring</td>
+    <td>Give Stripe</td>
+  </tr>
+  <tr>
+    <td>unknown</td>
+    <td>2.1</td>
+  </tr>
+</table>
