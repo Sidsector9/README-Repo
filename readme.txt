@@ -2,21 +2,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 == Upgrade Notice ==
 
-= 3.0 =
-3.0 is a major update. Make a full site backup, update your theme and extensions, and [review update best practices](https://docs.woocommerce.com/document/how-to-update-your-site) before upgrading.
+= 2.1.2 =
+This new version is full of many great features and enhancements. Please ensure you have a backup in place prior to updating and be sure to update Give Core and then your Give Add-ons to the latest versions for maximum compatibility.
 
-<strong>Is this in bold?</strong>
-<table style="width:100%">
-  <tr>
-    <th>Plugin</th>
-    <th>Tested with Give's version</th> 
-  </tr>
-  <tr>
-    <td>Give Recurring</td>
-    <td>Give Stripe</td>
-  </tr>
-  <tr>
-    <td>unknown</td>
-    <td>2.1</td>
-  </tr>
-</table>
+= 2.1.1 =
+Well, does it read this though?
+
+= 2.1.0 =
+The first notice.
